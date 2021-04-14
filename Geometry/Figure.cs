@@ -1,9 +1,7 @@
-﻿using System;
-
-namespace Geometry
+﻿namespace Geometry
 {
     public abstract class Figure
     {
-        public abstract double 
+        public abstract double CountSquare();
     }
 }
